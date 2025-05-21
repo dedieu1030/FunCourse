@@ -41,7 +41,8 @@ import {
   Link, 
   Plus,
   ArrowUpDown,
-  Check
+  Check,
+  Book
 } from 'lucide-react';
 
 // Interface pour les paiements
