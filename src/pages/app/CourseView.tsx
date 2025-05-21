@@ -59,7 +59,7 @@ const CourseView: React.FC = () => {
             id: "m3",
             title: "Composants et Props",
             type: "text",
-            content: "Les composants vous permettent de diviser l'UI en éléments indépendants et réutilisables. Conceptuellement, les composants sont comme des fonctions JavaScript. Ils acceptent des entrées arbitraires (appelées "props") et renvoient des éléments React décrivant ce qui doit apparaître à l'écran.",
+            content: "Les composants vous permettent de diviser l'UI en éléments indépendants et réutilisables. Conceptuellement, les composants sont comme des fonctions JavaScript. Ils acceptent des entrées arbitraires (appelées \"props\") et renvoient des éléments React décrivant ce qui doit apparaître à l'écran.",
           },
           {
             id: "m4",
